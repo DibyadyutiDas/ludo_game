@@ -13,4 +13,4 @@ A simple Ludo game built using C++ as a console-based project.
 ## 🎮 How to Run  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/Ludo-Game-Cpp.git
+   git clone https://github.com/DibyadyutiDas/Ludo-Game-Cpp.git
